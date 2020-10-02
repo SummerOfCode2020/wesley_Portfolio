@@ -1,5 +1,5 @@
-### Create my portfolio of Bootstrap
+### Created my portfolio of Bootstrap
 * HTML
 * CSS
 * JS
-* NODE
+* Node Modules
